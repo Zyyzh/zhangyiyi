@@ -1,0 +1,1 @@
+define({ availableImg: ["siebers2007worker","dode2016integrating","Beck2016Visual","vilela2020effect","siebers2009modelling","oliveira2017using"]});
